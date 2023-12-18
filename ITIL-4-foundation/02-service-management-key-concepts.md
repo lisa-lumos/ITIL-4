@@ -107,58 +107,77 @@ Service providers create new resources, or modify existing resources, for servic
 The service consumer can use its new or modified resources to create its own products, and address the needs of another target consumer group, thus becoming a service provider.
 
 ## 2.8 Value Outcomes, Costs, and Risks Service Relationships
+Service providers help their consumers to achieve outcomes, and take on some of the associated risks and costs.
 
+Service relationships can introduce new risks and costs, and can negatively affect some of the intended outcomes, while supporting others.
 
+Service relationships are perceived as valuable, only when they have more positive effects, then negative ones.
 
+service provider organization produces outputs, that help its consumers to achieve certain outcomes.
 
+Output: A tangible/intangible deliverable of an activity
 
+Outcome: A result for a stakeholder, enabled by one or more outputs
+
+Cost: The amount of money spent on a specific activity or resource. It can be expressed in non-monetary terms, such as time spent, people allocated, etc.
+
+2 types of costs involved in service relationships: 
+1. Costs removed from the consumer by the service - may include technology, cost of staff, etc. Consumer may not need to provide, such as when they hire contractors. 
+2. Costs imposed on the consumer by the service (the cost of service consumption). Includes the cost charged by the service provider, if applicable, plus, costs such as staff training, network usage, procurement, etc. 
+
+It is important to understand both types of cost, to ensure that the correct decisions are made, regarding the service relationship.
 
 ## 2.9 Risks
+Risk is a possible event, that could cause harm or loss, or make it more difficult to achieve objectives. It can be used in the context of measuring the probability of positive outcomes, as well as negative outcomes.
 
+2 types of risks involved in service relationships: 
+1. Risks removed from a consumer by the service. These removed risks can be: failure of the consumer's server hardware; Lack of staff availability. 
+2. Risks imposed on a consumer by the service. An example would be: Service provider ceasing to trade; Experiencing a security breach. 
+
+A service provider should manage the detailed level of risk, on behalf of the consumer.
+
+The consumer contributes to the reduction of risk through:
+- Actively participation, in the definition of the requirements of the service, and the clarification of its required outcomes
+- Clearly communicating the critical success factors (CSFs) and constraints, that apply to the service
+- Ensuring the provider has access to the necessary resources of the consumer, throughout the service relationship
 
 ## 2.10 Utility and Warranty
+Asses the overall utility and warranty of the service, to evaluate whether a service, or service offering, will facilitate the outcomes desired by the consumers, and therefore create value for them.
 
+Utility: The functionality offered by a product/service, to meet a particular need.
+
+Warranty: An assurance, that a product/service will meet the agreed requirements.
+
+
+Utility: 
+- "what the service does"
+- Determines whether a service is "fit for purpose"
+- A service must either support the performance of the consumer, or remove constraints from the consumer to have utility
+
+Warranty: 
+- "how the service performs"
+- Determines whether a service is "fit for use"
+- Relates to service levels, aligned with the needs of service consumers (maybe based on a formal agreement, marketing message, brand image, etc)
+
+They are essential for a service to facilitate its desired outcomes and therefore help create value.
+
+Example 1: A recreational theme park may offer exciting rides to deliver thrilling experiences for park visitors (utility). If a significant number of the rides are unavailable due to mechanical difficulties, the park is not fulfilling the warranty (it is not fit for use). Therefore, the consumers will not receive their expected value.
+
+Example 2: The rides are always up and running during advertised hours, but they do not have features that provide the levels of excitement expected by visitors. The utility is not fulfilled, even though the warranty is sufficient. Consumers would not receive the expected value.
 
 ## 2.11 Key Takeaways
+Service management supports the organizational shift, and leverages opportunities from new technologies.
 
+Value is co-created, through an active collaboration between providers and consumers, as well as other organizations, that are a part of the relevant service relationships.
 
-## 2.12 Knowledge Check
+The most important stakeholders of ITSM include organizations, service providers, service consumers, and other stakeholders.
 
+Service is a means of enabling value co-creation, by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 
+Service offering is a description of one or more services, designed to address the needs of a target consumer group.
 
+Service relationship is defined as the cooperation between a service provider and a service consumer.
 
+Service providers help their consumers to achieve outcomes, and in doing so, take on some of the associated risks and costs.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Utility is the functionality offered by a product or service, to meet a particular need. Warranty is defined as an assurance, that a product or service will meet the agreed requirements.
