@@ -116,56 +116,59 @@ A specially established integrator ensures that service relationships are proper
 Relationships between organizations may involve various levels of integration and formality. This ranges from contracts with clear separation of responsibilities, to flexible partnerships, where parties share common goals and risks, and collaborate to achieve desired outcomes. 
 
 ## 3.10 Organization Strategy
+An organization's strategy for choosing partners and suppliers, should be based on its goals, culture, and business environment.
 
-
+Factors Influencing Organizational Strategy:
+- Cost concerns
+- Resource scarcity
+- Subject matter expertise
+- Corporate culture
+- External constraints
+- Strategic focus
+- Organizational Strategy
+- Demand patterns
 
 ## 3.11 Value Streams and Processes
+The fourth dimension of service management, is value streams and processes. They define the activities, workflows, controls, and procedures to achieve the agreed objectives.
 
+It is concerned with how the various parts of the organization work, in an integrated and coordinated way, to enable value creation through products and services.
 
+It focuses on:
+- What activities the organization undertakes
+- How activities are organized
+- How value creation is ensured to all stakeholders efficiently and effectively
+
+A value stream is a series of steps an organization undertakes to create and deliver products and services to consumers. It combines the organization's value chain activities.
+
+Benefits of Value Streams:
+- Value stream provides a clear picture of what an organization delivers, and how to make continual improvements to its services.
+- An organization can map their work with the identified value stream map, to analyze their current state, and identify barriers and non-value adding activities.
+- Opportunities to increase value-adding activities can be found across the service value chain.
+- Value stream optimization includes process automation or adoption of emerging technologies to gain efficiencies or enhance user experience.
+- Value streams can be redefined to react to changing demands, or remain stable for a significant amount of time.
 
 ## 3.12 Processes
+A process is a set of interrelated activities that transform inputs into outputs. Processes define the sequence of activities and their dependencies.
 
+A well-defined process can improve productivity within and across organizations.
 
+An organization should answer the following questions, to successfully create, deliver, and improve a service:
+- What is the generic delivery model for the service, and how does the service work?
+- What are the value streams involved in delivering the agreed outputs of the service?
+- Who performs the required service actions?
 
 ## 3.13 Factors Affecting Service Providers
+Service providers are affected by external factors, that exhibit high degrees of volatility and impose constraints.
 
+Collectively, these factors influence how organizations configure their resources and address the four dimensions of service management.
 
+External Factors: PESTLE
+- Political: Laws, regulations, policies, bureaucracy, corruption, trade unions, import/export restrictions. Can also comprise laws around data protections, consumer protection, copyright, patent, and intellectual property. 
+- Economic: consumer income, monetary and fiscal policies, stock market trends, interest rates, economic growth, labor costs. 
+- Social: Consumer lifestyles and buying habits, attitudes and expectations of product and service quality, and societal makeup. 
+- Technological: Considerations around available private and public infrastructure, rate of technology change, level of technology adoption, internet penetration, and adoption of smartphones. 
+- Legal: laws around antitrust, copyright, consumer protection, employment, health and safety, and data protection. 
+- Environmental: weather, climate change, pollution, laws designed to regulate/tackle pollution and wast management, attitudes from business and consumers toward renewable energy, and environmentally friendly products and services. 
 
 ## 3.14 Key Takeaways
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+skipped. 
